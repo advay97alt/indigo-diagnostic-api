@@ -195,3 +195,5 @@ if __name__ == '__main__':
     print("  Slow endpoint: http://localhost:5000/slow")
     print("=" * 55)
     app.run(host='0.0.0.0', port=5000, debug=False)
+
+# Test pipeline run
